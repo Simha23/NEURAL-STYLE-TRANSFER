@@ -16,3 +16,6 @@ MENTOR : NEELA SANTHOSH KUMAR
 
 The objective of this program is to perform Neural Style Transfer (NST) — a technique that blends the content of one image (e.g., a photo of a person or object) with the style of another image (e.g., a painting or texture) to create a new image that looks like the content image painted in the style of the style image.
 
+# OUTPUT :
+
+![Image](https://github.com/user-attachments/assets/e1ef83f8-113f-48b4-9465-5de2bf77e80b)
